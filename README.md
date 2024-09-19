@@ -4,7 +4,7 @@ We make, host and sell Discord applications, the ones just for you.
 
 ## Our story 📖
 
-We are two computer science students who live in France. During the last summer we spent our time learned how to make Discord applications. Our goal is to make money on the side as working a job while in engineering school is practically impossible. We are both top of our class, knowing that we quickly understood we could utilise our knowledge to make Discord applications. We've been using the platform for quite some time to understand that it is a viable side hustle and
+We are two computer science students who live in France. During the last summer we spent our time learned how to make Discord applications. Our goal is to make money on the side as working a job while in engineering school is practically impossible. We are both top of our class, knowing that we quickly understood we could utilise our knowledge to make Discord applications. We've been using the platform for quite some time to understand that it is a viable side hustle and that makes us people with experience that you can trust.
 
 ## The product 🤖
 
